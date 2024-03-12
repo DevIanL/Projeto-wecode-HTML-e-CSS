@@ -1,0 +1,199 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.Parte1 {
+  height: 100%;
+  width: 60%;
+  display: inline-block;
+}
+.ConteudoParte1 {
+  margin: 0px 0px 0px 50px;
+}
+
+.ImagemLogo {
+  width: 200px;
+  margin-left: 20px;
+}
+.TituloLogo {
+  font-size: 17px;
+  font-family: Helvetica;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-left: 55px;
+  color: rgb(0, 0, 0);
+}
+#TituloPrincipal {
+  font-family: Helvetica;
+  font-size: 53px;
+}
+.Data {
+  text-transform: uppercase;
+  font-family: Helvetica;
+  color: rgb(207, 207, 207);
+  margin-bottom: 30px;
+}
+p {
+  font-family: Helvetica;
+  color: rgb(59, 59, 59);
+  font-size: 20px;
+}
+.ArticleInicial {
+  width: 70%;
+}
+h2 {
+  margin-top: 30px;
+  font-family: Helvetica;
+}
+.Palestrantes {
+  width: 250px;
+  height: 370px;
+  text-align: center;
+  border: 2px;
+  border-style: solid;
+  color: rgb(207, 207, 207);
+  border-radius: 30px;
+  display: inline-block;
+  margin-right: 40px;
+}
+.FotoPalestrante {
+  margin-top: 40px;
+  width: 70%;
+  border-radius: 150px;
+}
+.Palestrantes h3 {
+  margin-top: 40px;
+  font-family: Helvetica;
+  color: rgb(0, 0, 0);
+}
+.Palestrantes h4 {
+  margin-top: 40px;
+  font-family: Helvetica;
+  color: rgb(207, 207, 207);
+}
+.Palestrantes1 {
+  width: 250px;
+  height: 370px;
+  text-align: center;
+  border: 2px;
+  border-style: solid;
+  color: rgb(207, 207, 207);
+  border-radius: 30px;
+  display: inline-block;
+  margin-right: 40px;
+}
+.FotoPalestrante1 {
+  margin-top: 40px;
+  width: 70%;
+  border-radius: 150px;
+}
+.Palestrantes1 h3 {
+  margin-top: 40px;
+  font-family: Helvetica;
+  color: rgb(0, 0, 0);
+}
+.Palestrantes1 h4 {
+  margin-top: 40px;
+  font-family: Helvetica;
+  color: rgb(207, 207, 207);
+}
+.Palestrantes2 {
+  width: 250px;
+  height: 370px;
+  text-align: center;
+  border: 2px;
+  border-style: solid;
+  color: rgb(207, 207, 207);
+  border-radius: 30px;
+  display: inline-block;
+}
+.FotoPalestrante2 {
+  margin-top: 40px;
+  width: 70%;
+  border-radius: 150px;
+}
+.Palestrantes2 h3 {
+  margin-top: 40px;
+  font-family: Helvetica;
+  color: rgb(0, 0, 0);
+}
+.Palestrantes2 h4 {
+  margin-top: 40px;
+  font-family: Helvetica;
+  color: rgb(207, 207, 207);
+}
+.Parte2 {
+  height: 100%;
+  width: 40%;
+  float: right;
+  background-image: url(../imagens/fundoparte2.png);
+  text-align: center;
+}
+.ConteudoParte2 {
+  margin: 50px;
+  border: 2px;
+  border-style: solid;
+  border-color: white;
+}
+.TituloParte2 {
+  font-size: 45px;
+  font-family: Helvetica;
+  color: white;
+  font-weight: bolder;
+}
+.ParagrafoParte2 {
+  font-family: Helvetica;
+  color: white;
+  font-size: 23px;
+}
+.TextoParte2 {
+  margin: 40px 40px 80px 40px;
+}
+.ListaDesordenada {
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 10px;
+  margin-bottom: 68px;
+}
+footer h2 {
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+footer ul li {
+  font-family: Helvetica;
+  color: white;
+  font-size: 23px;
+}
+input {
+  padding: 20px 43px;
+  margin: 10px 25px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  font-family: Helvetica;
+  color: rgb(107, 107, 107);
+  margin-bottom: 30px;
+  outline: none;
+  border: none;
+}
+.InputEmail {
+  padding: 20px 190px;
+  margin-bottom: 30px;
+}
+button {
+  font-size: 35px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  padding: 10px 190px;
+  border: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  margin-bottom: 44px;
+  margin-top: 40px;
+  background-color: #1a4fb5;
+  cursor: pointer;
+}
+.FormNome {
+  display: inline-block;
+}
